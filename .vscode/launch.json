@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sataykanthkarravula/Desktop/ProblemSolving_Practicse-jan-4-25",
+      "program": "/Users/sataykanthkarravula/Desktop/ProblemSolving_Practicse-jan-4-25/build/Debug/outDebug"
+    }
+  ]
+}
